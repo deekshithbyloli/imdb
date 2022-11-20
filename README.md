@@ -1,5 +1,7 @@
 # imdb
 
+HOSTED LINK: https://golden-fox-add630.netlify.app
+
 Designed a Website to demonstrate movies list using api as mentioned in a questions: A mini imdb clone website in which we can search movies based on OMDB API, here we used home page and movie card page. and we can add a movied to a wishlist.
 
 
